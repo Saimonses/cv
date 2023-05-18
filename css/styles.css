@@ -71,6 +71,21 @@
   --bs-highlight-bg: #fff3cd;
 }
 
+#universidad{
+  font-size: 25px;
+  color: #0271d8;
+}
+
+#colegio{
+  font-size: 25px;
+  color: #0271d8;
+}
+
+#Instituto{
+  font-size: 25px;
+  color: #0271d8;
+}
+
 *,
 *::before,
 *::after {
